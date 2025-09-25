@@ -28,7 +28,7 @@ namespace jenkinsDemo2
 
         public int Div(int a, int b)
         {
-            int c = a / b
+            int c = a / b;
             return c;
         }
 
